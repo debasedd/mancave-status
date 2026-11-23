@@ -1,11 +1,11 @@
 {
-  "seq": 704,
-  "updated_at": "2026-11-23T22:39:10+07:00",
-  "heartbeat_at": "2026-11-23T22:39:56+07:00",
+  "seq": 705,
+  "updated_at": "2026-11-23T22:44:13+07:00",
+  "heartbeat_at": "2026-11-23T22:44:13+07:00",
   "agents": {
     "clip_factory": {
-      "status": "Working",
-      "task": "Finisher sekuensial batch 2 — 6 klip bersih: KICKDEATH, PROPANETANK, BOTTLE, PLANEUPSIDE, DOGS, LADYFIGHT",
+      "status": "Idle",
+      "task": "Batch 2 selesai 22:39 WIB — 6/6 final jadi; BOTTLE + DOGS flag frame-check (kartu judul nutupin mulut Dom); menunggu keputusan Fatih; On fire tayang 23:00 WIB",
       "last_submission_id": "N1-_thOpSaM",
       "last_submission_label": "Instagram — submit RUCKUS berhasil 20:09 WIB, status Pending review (RUCKUS ID d327c907-b46a-42d7-910c-9e6053405352)",
       "views": 1339,
@@ -28,7 +28,7 @@
     "watcher": "mancave-watcher v1 (watchdog)",
     "bounty_entries_submitted": 8,
     "board_open": 29,
-    "board_checked_at": "2026-11-23T22:28:51+07:00",
-    "test_note": "TRIGGER5 post-fix check 15:08:43"
+    "board_checked_at": "2026-11-23T22:43:38+07:00",
+    "test_note": "TRIGGER batch2-done-2 15:44:12"
   }
 }
