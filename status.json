@@ -1,17 +1,17 @@
 {
-  "seq": 410,
-  "updated_at": "2026-11-23T22:24:48+07:00",
-  "heartbeat_at": "2026-11-23T22:24:49+07:00",
+  "seq": 494,
+  "updated_at": "2026-11-23T22:28:13+07:00",
+  "heartbeat_at": "2026-11-23T22:28:36+07:00",
   "agents": {
     "clip_factory": {
       "status": "Working",
       "task": "Finisher sekuensial batch 2 — 6 klip bersih: KICKDEATH, PROPANETANK, BOTTLE, PLANEUPSIDE, DOGS, LADYFIGHT",
       "last_submission_id": "N1-_thOpSaM",
       "last_submission_label": "Instagram — submit RUCKUS berhasil 20:09 WIB, status Pending review (RUCKUS ID d327c907-b46a-42d7-910c-9e6053405352)",
-      "views": 458,
-      "views_at": "2026-11-23T22:18:00+07:00",
-      "views_label": "Bear — 458 views · 23 likes (T+14j18mnt, via yt-dlp)",
-      "last_activity_at": "2026-11-23T22:24:48+07:00"
+      "views": 1339,
+      "views_at": "2026-11-23T22:24:00+07:00",
+      "views_label": "Bear — 1.339 views (Studio analytics 22:24 WIB; public count 461)",
+      "last_activity_at": "2026-11-23T22:28:13+07:00"
     },
     "bounty_hunter": {
       "status": "Working",
