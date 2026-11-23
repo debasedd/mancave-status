@@ -1,0 +1,34 @@
+{
+  "seq": 264,
+  "updated_at": "2026-11-23T22:21:47+07:00",
+  "heartbeat_at": "2026-11-23T22:22:05+07:00",
+  "agents": {
+    "clip_factory": {
+      "status": "Working",
+      "task": "Finisher sekuensial batch 2 — 6 klip bersih: KICKDEATH, PROPANETANK, BOTTLE, PLANEUPSIDE, DOGS, LADYFIGHT",
+      "last_submission_id": "N1-_thOpSaM",
+      "last_submission_label": "Instagram — submit RUCKUS berhasil 20:09 WIB, status Pending review (RUCKUS ID d327c907-b46a-42d7-910c-9e6053405352)",
+      "views": 458,
+      "views_at": "2026-11-23T22:18:00+07:00",
+      "views_label": "Bear — 458 views · 23 likes (T+14j18mnt, via yt-dlp)",
+      "last_activity_at": "2026-11-23T22:21:46+07:00"
+    },
+    "bounty_hunter": {
+      "status": "Working",
+      "task": "Penjaga bounty 24 jam aktif — hook makefun-new-bounty ngecek board tiap 15 menit, auto-hunt bounty deterministik baru",
+      "last_submission_id": "01a208b6-bad0-778c-ba45-b98eb01d54ef",
+      "last_submission_label": "gta6-01 — submit diterima 21:02 WIB, kode klaim tersimpan di tracking, hasil 10 Des",
+      "views": null,
+      "views_at": null,
+      "views_label": "Skor entries belum keluar — dinilai setelah entries tutup",
+      "last_activity_at": "2026-11-23T21:19:00+07:00"
+    }
+  },
+  "source": {
+    "watcher": "mancave-watcher v1 (watchdog)",
+    "bounty_entries_submitted": 8,
+    "board_open": 29,
+    "board_checked_at": "2026-11-23T22:21:04+07:00",
+    "test_note": "TRIGGER5 post-fix check 15:08:43"
+  }
+}
