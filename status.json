@@ -1,17 +1,17 @@
 {
-  "seq": 714,
-  "updated_at": "2026-11-24T19:35:07+07:00",
-  "heartbeat_at": "2026-11-24T19:35:07+07:00",
+  "seq": 715,
+  "updated_at": "2026-11-24T19:35:50+07:00",
+  "heartbeat_at": "2026-11-24T19:35:50+07:00",
   "agents": {
     "clip_factory": {
       "status": "Idle",
-      "task": "ClipMask GUGUR — batch dibatalkan 17:45 WIB; warm-up Day 1 akun Gmail baru jalan 18:00-20:00 WIB; Day 2 (25 Nov 18:00) warm-up + bikin channel baru (nama belum diputus, ClipMask dilarang dipakai ulang); upload MANUAL mulai Day 4 (27 Nov); campaign + PP masih menunggu pilihan Fatih",
+      "task": "ClipMask GUGUR — batch dibatalkan 17:45 WIB; warm-up Day 1 akun Gmail baru jalan 18:00-20:00 WIB; Day 2 (25 Nov 18:00) warm-up + bikin channel baru (nama diputus DULU sebelum PP, ClipMask dilarang dipakai ulang; channel MULTI-GAME bukan khusus GTA 6, nama/PP/banner harus game-agnostic — koreksi Fatih 19:34 WIB); upload MANUAL mulai Day 4 (27 Nov); campaign + PP masih menunggu pilihan Fatih",
       "last_submission_id": "N1-_thOpSaM",
       "last_submission_label": "Instagram — submit RUCKUS berhasil 20:09 WIB, status Pending review (RUCKUS ID d327c907-b46a-42d7-910c-9e6053405352)",
       "views": 1339,
       "views_at": "2026-11-23T22:24:00+07:00",
       "views_label": "Bear — 1.339 views (Studio analytics 22:24 WIB; public count 461)",
-      "last_activity_at": "2026-11-24T18:00:00+07:00"
+      "last_activity_at": "2026-11-24T19:34:00+07:00"
     },
     "bounty_hunter": {
       "status": "Working",
@@ -30,6 +30,6 @@
     "board_open": 50,
     "board_checked_at": "2026-11-24T19:34:27+07:00",
     "test_note": "TRIGGER steady-state-check 19:35 — verify watcher picks up test_trigger append",
-    "live_tasks_updated_at": "2026-11-24T19:33:42+07:00"
+    "live_tasks_updated_at": "2026-11-24T19:36:00+07:00"
   }
 }
