@@ -1,21 +1,21 @@
 {
-  "seq": 717,
-  "updated_at": "2026-11-24T20:58:56+07:00",
-  "heartbeat_at": "2026-11-24T20:58:56+07:00",
+  "seq": 718,
+  "updated_at": "2026-11-24T20:59:29+07:00",
+  "heartbeat_at": "2026-11-24T20:59:29+07:00",
   "agents": {
     "clip_factory": {
       "status": "Idle",
-      "task": "ClipMask GUGUR — batch dibatalkan 17:45 WIB; warm-up Day 1 akun Gmail baru jalan 18:00-20:00 WIB; Day 2 (25 Nov 18:00) warm-up + bikin channel baru (nama diputus DULU sebelum PP, ClipMask dilarang dipakai ulang; channel MULTI-GAME bukan khusus GTA 6, nama/PP/banner harus game-agnostic — koreksi Fatih 19:34 WIB); upload MANUAL mulai Day 4 (27 Nov); campaign + PP masih menunggu pilihan Fatih",
+      "task": "ClipHawk DIPUTUSKAN 19:40 WIB (channel MULTI-GAME, game-agnostic); PP hood mata merah DIPILIH 19:42 WIB + banner v1 siap 19:46 WIB; warm-up Day 1 SELESAI 19:57 WIB (32 video, 2 like, tanpa bot check); Day 2 besok 25 Nov 18:00 warm-up + bikin channel ClipHawk; upload MANUAL mulai Day 4 (27 Nov); campaign masih menunggu pilihan Fatih (Boeshi/Dylan Page/BenDaDonnn)",
       "last_submission_id": "N1-_thOpSaM",
       "last_submission_label": "Instagram — submit RUCKUS berhasil 20:09 WIB, status Pending review (RUCKUS ID d327c907-b46a-42d7-910c-9e6053405352)",
       "views": 1339,
       "views_at": "2026-11-23T22:24:00+07:00",
       "views_label": "Bear — 1.339 views (Studio analytics 22:24 WIB; public count 461)",
-      "last_activity_at": "2026-11-24T19:34:00+07:00"
+      "last_activity_at": "2026-11-24T19:57:00+07:00"
     },
     "bounty_hunter": {
       "status": "Working",
-      "task": "Tiny-chess v4 scored, practice 1.279, rank #10.739/16.479 — 6 agent push nonstop sampai entries tutup 25 Nov 00:00 WIB (trial v5/v6, riset Elo/sunfish/gauntlet); board ~50 open, kebanyakan bounty $5",
+      "task": "Chess NYERAH 20:30 WIB (v4 tetap live final, practice 1.279); sekarang spam make.fun SEMUA kategori termasuk meme — kualitas di atas kuantitas, target min top 10; watcher scan board tiap 10 detik",
       "last_submission_id": "01a20cbc-4e58-7492-9fa0-64aac3634e3f",
       "last_submission_label": "tiny-chess v4 — resubmit 15:46 WIB, stage scored, practice 1.279, rank #10.739/16.479; entries tutup 25 Nov 00:00 WIB, hasil setelah itu",
       "views": null,
@@ -27,9 +27,9 @@
   "source": {
     "watcher": "mancave-watcher v1 (watchdog)",
     "bounty_entries_submitted": 8,
-    "board_open": 50,
+    "board_open": 100,
     "board_checked_at": "2026-11-24T20:58:53+07:00",
     "test_note": "TRIGGER steady-state-check 19:35 — verify watcher picks up test_trigger append",
-    "live_tasks_updated_at": "2026-11-24T19:36:00+07:00"
+    "live_tasks_updated_at": "2026-11-24T20:59:00+07:00"
   }
 }
