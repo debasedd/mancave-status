@@ -1,7 +1,7 @@
 {
-  "seq": 734,
-  "updated_at": "2026-11-25T03:04:36+07:00",
-  "heartbeat_at": "2026-11-25T03:55:07+07:00",
+  "seq": 735,
+  "updated_at": "2026-11-25T03:55:32+07:00",
+  "heartbeat_at": "2026-11-25T03:55:32+07:00",
   "agents": {
     "clip_factory": {
       "status": "Idle",
@@ -21,12 +21,12 @@
       "views": null,
       "views_at": null,
       "views_label": "Skor entries belum keluar — dinilai setelah entries tutup",
-      "last_activity_at": "2026-11-25T02:34:53+07:00"
+      "last_activity_at": "2026-11-25T03:55:31+07:00"
     }
   },
   "source": {
     "watcher": "mancave-watcher v1 (watchdog)",
-    "bounty_entries_submitted": 8,
+    "bounty_entries_submitted": 11,
     "board_open": 50,
     "board_checked_at": "2026-11-25T03:04:36+07:00",
     "test_note": "TRIGGER steady-state-check 19:35 — verify watcher picks up test_trigger append",
