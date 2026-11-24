@@ -1,7 +1,7 @@
 {
   "seq": 712,
   "updated_at": "2026-11-24T19:00:28+07:00",
-  "heartbeat_at": "2026-11-24T19:00:28+07:00",
+  "heartbeat_at": "2026-11-24T19:05:12+07:00",
   "agents": {
     "clip_factory": {
       "status": "Idle",
@@ -28,7 +28,7 @@
     "watcher": "mancave-watcher v1 (watchdog)",
     "bounty_entries_submitted": 8,
     "board_open": 50,
-    "board_checked_at": "2026-11-24T18:58:16+07:00",
+    "board_checked_at": "2026-11-24T19:02:10+07:00",
     "test_note": "clip_factory.task=Batch 2 selesai 22:39 WIB — 6/6 final jadi; BOTTLE + DOGS flag frame-check (kartu judul nutupin mulut Dom); menunggu keputusan Fatih; On fire tayang 23:00 WIB"
   }
 }
