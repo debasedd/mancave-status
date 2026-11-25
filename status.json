@@ -1,7 +1,7 @@
 {
-  "seq": 754,
-  "updated_at": "2026-11-25T12:35:27+07:00",
-  "heartbeat_at": "2026-11-25T12:35:30+07:00",
+  "seq": 755,
+  "updated_at": "2026-11-25T12:49:24+07:00",
+  "heartbeat_at": "2026-11-25T12:49:24+07:00",
   "agents": {
     "clip_factory": {
       "status": "Idle",
@@ -26,9 +26,9 @@
   },
   "source": {
     "watcher": "mancave-watcher v1 (watchdog)",
-    "bounty_entries_submitted": 11,
-    "board_open": 50,
-    "board_checked_at": "2026-11-25T12:34:31+07:00",
+    "bounty_entries_submitted": 8,
+    "board_open": 100,
+    "board_checked_at": "2026-11-25T12:49:23+07:00",
     "test_note": "TRIGGER steady-state-check 19:35 — verify watcher picks up test_trigger append",
     "live_tasks_updated_at": "2026-11-24T20:59:00+07:00"
   }
